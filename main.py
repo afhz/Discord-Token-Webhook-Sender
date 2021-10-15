@@ -5,7 +5,7 @@ from colorama import init, Fore, Back, Style
 init()
 
 messages = open('tokens.txt', 'r').readlines()
-webhook_url = "webhok"
+webhook_url = "webhook"
 
 latest = -1
 def get_latest_message():

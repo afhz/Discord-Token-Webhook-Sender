@@ -1,2 +1,6 @@
-# Discord-Token-Webhook-Sender
-An discord token webhook sender. Its basically sending your provided tokens ( tokens.txt ), to your provided webhook.
+-> This project is coded by quixZz. <-
+
+
+- Open "main.py" in editor, and paste your webhook in -> | webhook_url = "paste here your webhook".
+
+-> For help, contact me. Discord: quixZz#5685 | Telegram: https://t.me/quuixZz
